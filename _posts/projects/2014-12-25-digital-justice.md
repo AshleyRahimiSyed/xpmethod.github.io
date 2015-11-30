@@ -41,3 +41,11 @@ summarize and present the research to Columbia community at Morningside and to
 think about the long-term impact. We aim to work with the Global Center
 Directors in shaping the individual programs and to involve a diverse array of
 faculty across the three years of the project.
+
+##Santiago: Technologies of Resistance
+Over two days, we will be hosting a series of workshops, lectures and town-hall style discussions at [Columbia's Global Center in Santiago](http://globalcenters.columbia.edu/santiago/). These sessions will include the participation of various academics, artists, journalists, developers, hackers, non-governmental organisations, and more. Considering the unique history of dissent  in Chile, we hope to discuss the specific ways mechanisms of resistance can be and have been preserved and extended into the digital age.
+
+#Partners
+-[Grupo Grifo](http://www.grupogrifo.org), an art collective based in Chile, will be coordinating a session about digital, public art as a means of dissent.
+-[Federico Kirschbaum](https://twitter.com/fede_k) of Buenos Aires' [Ekoparty](https://www.ekoparty.org/), will be organising a session about hacking and internet security.
+-[Miguel Paz](http://www.icfj.org/about/profiles/miguel-paz) of [Poderopedia](http://www.poderopedia.org/poderopedia/pages/index/1_) Chile will be coordinating a session about the ways citizens hold government and private enterprise accountable, and maintain transparency, in the digital age.
